@@ -1,2 +1,2 @@
-# kcgm
-graph to image synthesis via knowledge consensus released codes
+# Graph-to-Image Synthesis via Knowledge Consensus 
+The released codes will come soon
